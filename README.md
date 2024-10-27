@@ -24,6 +24,8 @@
 
 # Результаты тестирования
 ![2024-10-27_18-02-17](https://github.com/user-attachments/assets/075e5979-f528-4ab9-9f59-b33922b74f30)
+
 ![2024-10-27_17-59-48](https://github.com/user-attachments/assets/d2bc39ac-1669-4613-96ac-f08ed8a19a82)
+
 ![2024-10-27_18-01-56](https://github.com/user-attachments/assets/9ff42d61-471c-48af-a650-1966972f7cd1)
 
